@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Anker](https://www.anker-in.com/)
 - 🌱 I’m currently learning [Golang](https://golang.org/) | [React](https://reactjs.org/)
-- 📫 How to reach me Tel:[+86 18365426759](https://xyming108.github.io) | QQ:[1931559710](https://xyming108.github.io) | WeChat:[xyming108](https://xyming108.github.io) | Email:1931559710@qq.com
+- 📫 How to reach me Tel:[+86 18365426759](https://github.com/xyming108) | QQ:[1931559710](https://github.com/xyming108) | WeChat:[xyming108](https://github.com/xyming108) | Email:1931559710@qq.com
 - 💬 Ask me about [here](https://github.com/xyming108/xyming108/issues)
 
 <a href="https://github.com/xyming108">
