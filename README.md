@@ -9,10 +9,10 @@
 - 💬 Ask me about [here](https://github.com/xyming108/xyming108/issues)
 
 <a href="https://github.com/xyming108">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xyming108&count_private=true&show_icons=true&theme=cobalt" alt="xyming108" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=xyming108&count_private=true&show_icons=true&theme=cobalt" alt="xyming108" />
 </a>
 <a href="https://github.com/xyming108">
-  <img align="center" width=42.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&theme=cobalt&layout=compact" alt="xyming108" />
+  <img align="center" width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&theme=cobalt&layout=compact" alt="xyming108" />
 </a>
 
 
