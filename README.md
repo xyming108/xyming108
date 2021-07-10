@@ -14,12 +14,13 @@
 <a href="https://github.com/xyming108">
   <img align="center" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&theme=react&layout=compact" alt="xyming108" />
 </a>
-<a href="https://github.com/xyming108">
+
+<!-- <a href="https://github.com/xyming108">
   <img align="center" width=46% src="https://gitee.com/xyming108/blog_img/raw/master/wallpaper/b11.jpg" alt="xyming108" />
 </a>
 <a href="https://github.com/xyming108">
-  <img align="center" width=46% src="https://gitee.com/xyming108/blog_img/raw/master/wallpaper/b12.jpg" alt="xyming108" />
-</a>
+  <img align="center" width=46% src="https://gitee.com/xyming108/blog_img/raw/master/wallpaper/b10.jpg" alt="xyming108" />
+</a> -->
 
 
 
