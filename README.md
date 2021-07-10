@@ -4,24 +4,25 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on [Anker](https://www.anker-in.com/)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning [Golang](https://golang.org/) | [React](https://reactjs.org/)
+- 📫 How to reach me Tel:[+86 18365426759]() | QQ:[1931559710]() | WeChat:[xyming108]() | Email:1931559710@qq.com
+- 💬 Ask me about [here](https://github.com/xyming108/xyming108/issues)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyming108&count_private=true&show_icons=true&theme=cobalt)](https://github.com/xyming108)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&layout=compact&theme=cobalt)](https://github.com/xyming108)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/xyming108">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xyming108&count_private=true&show_icons=true&theme=cobalt" alt="xyming108" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/xyming108">
+  <img align="center" width=42.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&theme=cobalt&layout=compact" alt="xyming108" />
 </a>
 
 
+
+
+
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
 
 
