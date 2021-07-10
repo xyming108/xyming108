@@ -9,12 +9,17 @@
 - 💬 Ask me about [here](https://github.com/xyming108/xyming108/issues)
 
 <a href="https://github.com/xyming108">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=xyming108&count_private=true&show_icons=true&theme=vue" alt="xyming108" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=xyming108&count_private=true&show_icons=true&theme=react" alt="xyming108" />
 </a>
 <a href="https://github.com/xyming108">
-  <img align="center" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&theme=vue&layout=compact" alt="xyming108" />
+  <img align="center" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&theme=react&layout=compact" alt="xyming108" />
 </a>
-
+<a href="https://github.com/xyming108">
+  <img align="center" width=46% src="https://gitee.com/xyming108/blog_img/raw/master/wallpaper/b11.jpg" alt="xyming108" />
+</a>
+<a href="https://github.com/xyming108">
+  <img align="center" width=46% src="https://gitee.com/xyming108/blog_img/raw/master/wallpaper/b12.jpg" alt="xyming108" />
+</a>
 
 
 
