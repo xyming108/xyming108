@@ -17,7 +17,7 @@
   <img align="center" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&theme=react&layout=compact" alt="xyming108" />
 </a>
 <a href="https://github.com/xyming108">
-  <img align="center" width=94% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyming108&theme=solarized" alt="xyming108" />
+  <img align="center" width=94% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyming108&theme=github_dark" alt="xyming108" />
 </a>
 
 <!-- <a href="https://github.com/xyming108">
