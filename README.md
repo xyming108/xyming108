@@ -1,7 +1,7 @@
 ### 👋 Hi 
 
 - 💁🏻‍♂️ I'm Xu Yiming from China, You can also call me kevin.xu
-- 👨🏻‍💻 A back-end development engineer and alse interested in the front-end
+- 👨🏻‍💻 A back-end development engineer and also interested in the front-end
 - 📝 I regulary write articles on my [blog](https://www.sulvblog.cn)
 - 📞 You can contact me through wecaht:[xyming1998](https://github.com/xyming108)、phone:[18365426759](https://github.com/xyming108)
 
