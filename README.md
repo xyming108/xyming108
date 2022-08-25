@@ -1,26 +1,10 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**xyming108/xyming108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💁🏻‍♂️ I'm Xu Yiming from China, You can also call me kevin.xu
+- 📝 I regulary write articles on my [blog](https://www.sulvblog.cn)
+- 📞 You can contact me through wecaht:xyming1998、phone:18365426759
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://github.com/xyming108">
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=xyming108&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
-</a>
-
-<br />
-<br />
+### Skills
 
 <div>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -32,4 +16,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  ... etc ......
 </div>
+
+### GitHub Stats
+
+<a href="https://github.com/xyming108">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=xyming108&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
+</a>
