@@ -1,11 +1,11 @@
-### Hi 👋
+### 👋 Hi 
 
 - 💁🏻‍♂️ I'm Xu Yiming from China, You can also call me kevin.xu
+- 👨🏻‍💻 A back-end development engineer and alse interested in the front-end
 - 📝 I regulary write articles on my [blog](https://www.sulvblog.cn)
-- 📞 You can contact me through wecaht:xyming1998、phone:18365426759
+- 📞 You can contact me through wecaht:[xyming1998](https://github.com/xyming108)、phone:[18365426759](https://github.com/xyming108)
 
-### Skills
-
+### 👨🏻‍💻 Skills
 <div>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -19,7 +19,7 @@
   ... etc ......
 </div>
 
-### GitHub Stats
+### 🌟 GitHub Stats
 
 <a href="https://github.com/xyming108">
   <img align=center src="https://github-readme-stats.vercel.app/api?username=xyming108&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
