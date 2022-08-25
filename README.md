@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+
+<a href="https://github.com/xyming108">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xyming108&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" style="height: 160px;"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/xyming108">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&layout=compact&card_width=300&hide_title=true" style="height: 160px;"/>
 </a>
