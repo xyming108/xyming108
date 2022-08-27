@@ -1,11 +1,16 @@
 ### 👋 Hi 
 
+<div align=left style="display: flex; justify-content: center;">
+
 - 💁🏻‍♂️ I'm Xu Yiming from China, You can also call me kevin.xu
 - 👨🏻‍💻 A back-end development engineer and also interested in the front-end
 - 📝 I regulary write articles on my [blog](https://www.sulvblog.cn)
 - 📞 You can contact me through wecaht:[xyming1998](https://github.com/xyming108)、phone:[18365426759](https://github.com/xyming108)
 
+</div>
+
 ### 👨🏻‍💻 Skills
+<div align=center>
 <div>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -24,12 +29,17 @@
   <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
   <imh src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" />
 </div>
+</div>
 
 ### 🌟 GitHub Stats
 
-<a href="https://github.com/xyming108">
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=xyming108&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
-</a>
-<a>
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&layout=compact" />
-</a>
+<div align=center>
+  <a href="https://github.com/xyming108">
+    <img align=center src="https://github-readme-stats.vercel.app/api?username=xyming108&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
+  </a>
+</div>
+<div align=center>
+  <a href="https://github.com/xyming108">
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&layout=compact" />
+  </a>
+</div>
