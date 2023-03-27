@@ -29,9 +29,9 @@
 ### 🌟 GitHub Stats
 <div>
   <a href="https://github.com/xyming108">
-    <img align=center src="https://github-readme-stats.vercel.app/api?username=xyming108&show_icons=true&count_private=true&include_all_commits=true&hide_title=false"/>
+    <img align=center src="https://github-readme-stats.vercel.app/api?username=xyming108&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&card_width=250"/>
   </a>
   <a href="https://github.com/xyming108">
-    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&layout=compact&hide_title=false&card_width=445" />
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&layout=compact&hide_title=false&card_width=300" />
   </a>
 </div>
